@@ -1,0 +1,58 @@
+F:\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\bin\x86\Debug\watr_gui_v2.exe.config
+F:\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\bin\x86\Debug\watr_gui_v2.exe
+F:\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\bin\x86\Debug\watr_gui_v2.pdb
+F:\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\bin\x86\Debug\SQLite.Designer.pdb
+F:\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\obj\x86\Debug\watr_gui_v2.csprojResolveAssemblyReference.cache
+F:\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\obj\x86\Debug\watr_gui_v2.Properties.Resources.resources
+F:\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\obj\x86\Debug\watr_gui_v2.csproj.GenerateResource.Cache
+F:\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\obj\x86\Debug\watr_gui_v2.exe
+F:\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\obj\x86\Debug\watr_gui_v2.pdb
+F:\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\obj\x86\Debug\watr_gui_v2.WATR_BackEndSS.resources
+F:\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\obj\x86\Debug\watr_gui_v2.WATR_DeviceInfoForm.resources
+F:\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\obj\x86\Debug\watr_gui_v2.WATR_MainForm.resources
+F:\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\obj\x86\Debug\watr_gui_v2.WATR_Logbook.resources
+C:\Users\Armando Cabrera\Desktop\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\bin\x86\Debug\watr_gui_v2.exe.config
+C:\Users\Armando Cabrera\Desktop\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\obj\x86\Debug\watr_gui_v2.exe
+C:\Users\Armando Cabrera\Desktop\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\obj\x86\Debug\watr_gui_v2.pdb
+C:\Users\Armando Cabrera\Desktop\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\bin\x86\Debug\watr_gui_v2.exe
+C:\Users\Armando Cabrera\Desktop\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\bin\x86\Debug\watr_gui_v2.pdb
+C:\Users\Armando Cabrera\Desktop\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\bin\x86\Debug\SQLite.Designer.pdb
+C:\Users\Armando Cabrera\Desktop\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\obj\x86\Debug\watr_gui_v2.csprojResolveAssemblyReference.cache
+C:\Users\Armando Cabrera\Desktop\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\obj\x86\Debug\watr_gui_v2.WATR_Logbook.resources
+C:\Users\Armando Cabrera\Desktop\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\obj\x86\Debug\watr_gui_v2.WATR_BackEndSS.resources
+C:\Users\Armando Cabrera\Desktop\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\obj\x86\Debug\watr_gui_v2.Properties.Resources.resources
+C:\Users\Armando Cabrera\Desktop\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\obj\x86\Debug\watr_gui_v2.WATR_DeviceInfoForm.resources
+C:\Users\Armando Cabrera\Desktop\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\obj\x86\Debug\watr_gui_v2.WATR_MainForm.resources
+C:\Users\Armando Cabrera\Desktop\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\obj\x86\Debug\watr_gui_v2.csproj.GenerateResource.Cache
+C:\Users\Zanaso\Desktop\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\bin\x86\Debug\watr_gui_v2.exe.config
+C:\Users\Zanaso\Desktop\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\obj\x86\Debug\watr_gui_v2.exe
+C:\Users\Zanaso\Desktop\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\obj\x86\Debug\watr_gui_v2.pdb
+C:\Users\Zanaso\Desktop\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\bin\x86\Debug\watr_gui_v2.exe
+C:\Users\Zanaso\Desktop\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\bin\x86\Debug\watr_gui_v2.pdb
+C:\Users\Zanaso\Desktop\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\bin\x86\Debug\SQLite.Designer.dll
+C:\Users\Zanaso\Desktop\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\bin\x86\Debug\System.Data.SQLite.dll
+C:\Users\Zanaso\Desktop\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\bin\x86\Debug\SQLite.Designer.pdb
+C:\Users\Zanaso\Desktop\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\bin\x86\Debug\System.Data.SQLite.pdb
+C:\Users\Zanaso\Desktop\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\obj\x86\Debug\watr_gui_v2.csprojResolveAssemblyReference.cache
+C:\Users\Zanaso\Desktop\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\obj\x86\Debug\watr_gui_v2.WATR_Logbook.resources
+C:\Users\Zanaso\Desktop\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\obj\x86\Debug\watr_gui_v2.WATR_BackEndSS.resources
+C:\Users\Zanaso\Desktop\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\obj\x86\Debug\watr_gui_v2.Properties.Resources.resources
+C:\Users\Zanaso\Desktop\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\obj\x86\Debug\watr_gui_v2.WATR_DeviceInfoForm.resources
+C:\Users\Zanaso\Desktop\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\obj\x86\Debug\watr_gui_v2.WATR_MainForm.resources
+C:\Users\Zanaso\Desktop\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\obj\x86\Debug\watr_gui_v2.csproj.GenerateResource.Cache
+C:\Users\Zanaso\Desktop\Desktop Cleanup 12-23-2013\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\bin\x86\Debug\watr_gui_v2.exe.config
+C:\Users\Zanaso\Desktop\Desktop Cleanup 12-23-2013\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\obj\x86\Debug\watr_gui_v2.exe
+C:\Users\Zanaso\Desktop\Desktop Cleanup 12-23-2013\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\obj\x86\Debug\watr_gui_v2.pdb
+C:\Users\Zanaso\Desktop\Desktop Cleanup 12-23-2013\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\bin\x86\Debug\watr_gui_v2.exe
+C:\Users\Zanaso\Desktop\Desktop Cleanup 12-23-2013\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\bin\x86\Debug\watr_gui_v2.pdb
+C:\Users\Zanaso\Desktop\Desktop Cleanup 12-23-2013\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\bin\x86\Debug\SQLite.Designer.dll
+C:\Users\Zanaso\Desktop\Desktop Cleanup 12-23-2013\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\bin\x86\Debug\System.Data.SQLite.dll
+C:\Users\Zanaso\Desktop\Desktop Cleanup 12-23-2013\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\bin\x86\Debug\SQLite.Designer.pdb
+C:\Users\Zanaso\Desktop\Desktop Cleanup 12-23-2013\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\bin\x86\Debug\System.Data.SQLite.pdb
+C:\Users\Zanaso\Desktop\Desktop Cleanup 12-23-2013\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\obj\x86\Debug\watr_gui_v2.csprojResolveAssemblyReference.cache
+C:\Users\Zanaso\Desktop\Desktop Cleanup 12-23-2013\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\obj\x86\Debug\watr_gui_v2.WATR_Logbook.resources
+C:\Users\Zanaso\Desktop\Desktop Cleanup 12-23-2013\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\obj\x86\Debug\watr_gui_v2.WATR_BackEndSS.resources
+C:\Users\Zanaso\Desktop\Desktop Cleanup 12-23-2013\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\obj\x86\Debug\watr_gui_v2.Properties.Resources.resources
+C:\Users\Zanaso\Desktop\Desktop Cleanup 12-23-2013\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\obj\x86\Debug\watr_gui_v2.WATR_DeviceInfoForm.resources
+C:\Users\Zanaso\Desktop\Desktop Cleanup 12-23-2013\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\obj\x86\Debug\watr_gui_v2.WATR_MainForm.resources
+C:\Users\Zanaso\Desktop\Desktop Cleanup 12-23-2013\WATR Project\WATR_GUI_V2\watr_gui_v2\watr_gui_v2\obj\x86\Debug\watr_gui_v2.csproj.GenerateResource.Cache

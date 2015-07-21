@@ -1,0 +1,28 @@
+E:\C# Projects\WATR_GUI\WATR_GUI\bin\Debug\WATR_GUI.exe.config
+E:\C# Projects\WATR_GUI\WATR_GUI\obj\Debug\WATR_GUI.csprojResolveAssemblyReference.cache
+E:\C# Projects\WATR_GUI\WATR_GUI\obj\Debug\WATR_GUI.Properties.Resources.resources
+E:\C# Projects\WATR_GUI\WATR_GUI\obj\Debug\WATR_GUI.csproj.GenerateResource.Cache
+E:\C# Projects\WATR_GUI\WATR_GUI\bin\Debug\WATR_GUI.exe
+E:\C# Projects\WATR_GUI\WATR_GUI\bin\Debug\WATR_GUI.pdb
+E:\C# Projects\WATR_GUI\WATR_GUI\obj\Debug\WATR_GUI.exe
+E:\C# Projects\WATR_GUI\WATR_GUI\obj\Debug\WATR_GUI.pdb
+E:\C# Projects\WATR_GUI\WATR_GUI\obj\Debug\WATR_GUI.WATRSplashScreen.resources
+C:\Users\Zanaso\Desktop\WATR_GUI\WATR_GUI\bin\Debug\WATR_GUI.exe.config
+C:\Users\Zanaso\Desktop\WATR_GUI\WATR_GUI\obj\Debug\WATR_GUI.exe
+C:\Users\Zanaso\Desktop\WATR_GUI\WATR_GUI\obj\Debug\WATR_GUI.pdb
+C:\Users\Zanaso\Desktop\WATR_GUI\WATR_GUI\bin\Debug\WATR_GUI.exe
+C:\Users\Zanaso\Desktop\WATR_GUI\WATR_GUI\bin\Debug\WATR_GUI.pdb
+C:\Users\Zanaso\Desktop\WATR_GUI\WATR_GUI\obj\Debug\WATR_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Zanaso\Desktop\WATR_GUI\WATR_GUI\obj\Debug\WATR_GUI.Properties.Resources.resources
+C:\Users\Zanaso\Desktop\WATR_GUI\WATR_GUI\obj\Debug\WATR_GUI.WATRSplashScreen.resources
+C:\Users\Zanaso\Desktop\WATR_GUI\WATR_GUI\obj\Debug\WATR_GUI.csproj.GenerateResource.Cache
+F:\WATR Project\WATR_GUI\WATR_GUI\bin\Debug\WATR_GUI.exe.config
+F:\WATR Project\WATR_GUI\WATR_GUI\obj\Debug\WATR_GUI.exe
+F:\WATR Project\WATR_GUI\WATR_GUI\obj\Debug\WATR_GUI.pdb
+F:\WATR Project\WATR_GUI\WATR_GUI\bin\Debug\WATR_GUI.exe
+F:\WATR Project\WATR_GUI\WATR_GUI\bin\Debug\WATR_GUI.pdb
+F:\WATR Project\WATR_GUI\WATR_GUI\obj\Debug\WATR_GUI.csprojResolveAssemblyReference.cache
+F:\WATR Project\WATR_GUI\WATR_GUI\obj\Debug\WATR_GUI.Properties.Resources.resources
+F:\WATR Project\WATR_GUI\WATR_GUI\obj\Debug\WATR_GUI.WATRConfigurationForm.resources
+F:\WATR Project\WATR_GUI\WATR_GUI\obj\Debug\WATR_GUI.WATRSplashScreen.resources
+F:\WATR Project\WATR_GUI\WATR_GUI\obj\Debug\WATR_GUI.csproj.GenerateResource.Cache

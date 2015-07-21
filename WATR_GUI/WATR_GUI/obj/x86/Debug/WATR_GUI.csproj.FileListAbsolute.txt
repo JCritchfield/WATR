@@ -1,0 +1,12 @@
+F:\WATR Project\WATR_GUI\WATR_GUI\bin\x86\Debug\WATR_GUI.exe.config
+F:\WATR Project\WATR_GUI\WATR_GUI\obj\x86\Debug\WATR_GUI.Properties.Resources.resources
+F:\WATR Project\WATR_GUI\WATR_GUI\obj\x86\Debug\WATR_GUI.WATRConfigurationForm.resources
+F:\WATR Project\WATR_GUI\WATR_GUI\obj\x86\Debug\WATR_GUI.WATRSplashScreen.resources
+F:\WATR Project\WATR_GUI\WATR_GUI\obj\x86\Debug\WATR_GUI.csproj.GenerateResource.Cache
+F:\WATR Project\WATR_GUI\WATR_GUI\bin\x86\Debug\WATR_GUI.exe
+F:\WATR Project\WATR_GUI\WATR_GUI\bin\x86\Debug\WATR_GUI.pdb
+F:\WATR Project\WATR_GUI\WATR_GUI\obj\x86\Debug\WATR_GUI.exe
+F:\WATR Project\WATR_GUI\WATR_GUI\obj\x86\Debug\WATR_GUI.pdb
+F:\WATR Project\WATR_GUI\WATR_GUI\obj\x86\Debug\WATR_GUI.csprojResolveAssemblyReference.cache
+F:\WATR Project\WATR_GUI\WATR_GUI\obj\x86\Debug\WATR_GUI.WATRSensorForm.resources
+F:\WATR Project\WATR_GUI\WATR_GUI\obj\x86\Debug\WATR_GUI.WATRMainForm.resources
